@@ -13,7 +13,7 @@ p {
 	width: 712px;
 	height: 952px;
 	position: relative;
-	overflow: hidden;
+	overflow: hidden; /*Experimentera med denna*/
 	margin: auto;
 }
 .image-inner-container {
