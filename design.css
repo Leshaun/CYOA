@@ -16,7 +16,7 @@ p {
 	overflow: hidden;
 	margin: auto;
 	background-image: url(bilder/bakgrund.jpg);
-	background-repeat: none;
+	background-repeat: no-repeat;
 	background-size: 712px 952px;
 }
 .overlaytitel {
